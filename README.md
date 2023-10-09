@@ -2,6 +2,7 @@
 [![MasterHead](https://github.com/AndreyStaroverov/java-explore-with-me/blob/main/banner.png)](https://github.com/AndreyStaroverov)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyStaroverov&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyStaroverov&layout=compact)](https://github.com/AndreyStaroverov/github-readme-stats)
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?titleAlign=center&lineCount=1&bg=%23050101&titleColor=%23f2f2f2&line1=java%2Cjava%2Cffb800%3BSpring%2CSpring%2C0ff76e%3BDocker%2CDocker%2C0080ff%3BMaven%2Cmaven%2Cff6f6f%3BSql%2CSql%2Cb52c2c%3BPostgreSql%2CPostgreSql%2C1b1212%3BHibernate%2Chibernate%2C4b3535%3BJUnit%2CJUnit%2Cff3737%3B)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/andureyka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
