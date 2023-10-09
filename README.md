@@ -1,4 +1,4 @@
-### Hi there 👋
+
 [![MasterHead](https://github.com/AndreyStaroverov/java-explore-with-me/blob/main/banner.png)](https://github.com/AndreyStaroverov)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyStaroverov&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyStaroverov&layout=compact)](https://github.com/AndreyStaroverov/github-readme-stats)
