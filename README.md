@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](https://github.com/AndreyStaroverov/java-explore-with-me/blob/28c2f09ab3ad323e549d15657552e6a73663b4ab/banner.png)](https://github.com/AndreyStaroverov)
+[![MasterHead](https://github.com/AndreyStaroverov/java-explore-with-me/blob/main/banner.png)](https://github.com/AndreyStaroverov)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyStaroverov&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyStaroverov&layout=compact)](https://github.com/AndreyStaroverov/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
