@@ -7,7 +7,6 @@
 <a href="https://t.me/andureyka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
   <a href="https://vk.com/saizz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/vk.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.instagram.com/andureyka/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NZqiUoAnAFsAAAAC/cat-computer.gif">
 </p>
 
 <!--
@@ -21,7 +20,7 @@
 </p>
 <!--
 Here are some ideas to get you started:
-
+  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NZqiUoAnAFsAAAAC/cat-computer.gif">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
