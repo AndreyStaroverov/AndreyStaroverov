@@ -3,7 +3,7 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyStaroverov&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyStaroverov&layout=compact)](https://github.com/AndreyStaroverov/github-readme-stats)
 <p>
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?titleAlign=center&lineCount=1&bg=%23050101&titleColor=%23f2f2f2&line1=java%2Cjava%2Cffb800%3BSpring%2CSpring%2C0ff76e%3BDocker%2CDocker%2C0080ff%3BMaven%2Cmaven%2Cff6f6f%3BSql%2CSql%2Cb52c2c%3B" alt="My Tech Stack" />
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?titleAlign=center&lineCount=3&theme=jetbrains_new_dark&bg=%23000000&badge=%232b2626&border=%23fcfcfc&titleColor=%23706060&line1=Java%2CJava%2Cf0ba12%3BSpring%2CSpring%2C5aff3c%3BHibernate%2Chibernate%2Cff1919%3BSQL%2CSQL%2Cfffafa%3B&line2=PostgreSql%2CPostgreSql%2C44d3ff%3Bdocker%2Cdocker%2C3b4cff%3BJUnit%2CJUnit%2Cf1f1f1%3B" alt="My Tech Stack" />
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
