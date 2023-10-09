@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MasterHead](your image link)](https://github.com/AndreyStaroverov)
+[![MasterHead](https://ibb.co/crwYx0w)](https://github.com/AndreyStaroverov)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyStaroverov&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreyStaroverov&layout=compact)](https://github.com/AndreyStaroverov/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
